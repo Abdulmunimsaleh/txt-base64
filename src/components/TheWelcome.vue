@@ -86,7 +86,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
   </WelcomeItem>
 </template> -->
-
+<!-- 
 <script setup>
 import { ref } from "vue";
 
@@ -234,4 +234,4 @@ const decodeFromBase64 = () => {
 .custom-btn:focus {
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5); /* Focus outline */
 }
-</style>
+</style> -->
